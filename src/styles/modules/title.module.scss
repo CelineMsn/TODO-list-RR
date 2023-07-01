@@ -10,8 +10,9 @@
 	margin: 0 auto;
 	margin-top: 2rem;
 	margin-bottom: 1.5rem;
-	color: var(--black-1);
+	color: var(--primaryPurple);
 	@include smallDeviceSize {
 		font-size: 3rem;
 	}
 }
+
